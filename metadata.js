@@ -18,7 +18,8 @@ const meta = {
         {"trait_type":"series","value":"2019 Premiere Series"},
         {"trait_type":"number minted","value":1},
         {"trait_type":"https://www.facebook.com","value":"/OfficialTerraVirtua"}
-    ]
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=BHKCDgRMD7g"
 };
 
 app.get('/', (req,res) => {
