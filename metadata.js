@@ -16,7 +16,7 @@ const meta = {
         {"trait_type":"set","value":"Bonus"},
         {"trait_type":"condition","value":"New"},
         {"trait_type":"series","value":"2019 Premiere Series"},
-        {"trait_type":"number minted","value":1},
+        {"display_type":"number","trait_type":"number minted","value":1},
         {"trait_type":"twitter","value":"@terra_virtua"}
     ]
 };
