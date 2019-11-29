@@ -3,7 +3,7 @@ const app = express();
 
 const meta = {
     "description":"Bonus card for collecting an item from at least one of each set. ",
-    "external_url":["https://dev.terravirtua.io:3004","https://dev.terravirtua.io:3004"],
+    "external_url":"https://dev.terravirtua.io:3004",
     "image":"https://tv-inventory-dev.s3.ap-south-1.amazonaws.com/paramount/thegodfather/images/large/large_image_IL%20Padrino1574763898297.png",
     "name":"IL Padrino",
     "background_color":"#000000",
@@ -16,7 +16,8 @@ const meta = {
         {"trait_type":"set","value":"Bonus"},
         {"trait_type":"condition","value":"New"},
         {"trait_type":"series","value":"2019 Premiere Series"},
-        {"trait_type":"number minted","value":1}
+        {"trait_type":"number minted","value":1},
+        {"trait_type":"facebook","value":"OfficialTerraVirtua"}
     ]
 };
 
