@@ -4,7 +4,7 @@ const app = express();
 const meta = {
     "description":"Bonus card for collecting an item from at least one of each set. ",
     "external_url":"https://dev.terravirtua.io:3004",
-    "image":"https://tv-inventory-dev.s3.ap-south-1.amazonaws.com/legendary/models/thumbnail_video/Loop_360_Black.gif",
+    "image":"https://tv-inventory-dev.s3.ap-south-1.amazonaws.com/legendary/models/thumbnail_video/Loop_360_Black.mp4",
     "name":"IL Padrino",
     "background_color":"#000000",
     "attributes":[
